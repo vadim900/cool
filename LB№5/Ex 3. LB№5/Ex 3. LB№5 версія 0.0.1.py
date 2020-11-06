@@ -1,6 +1,5 @@
 colors = ['чорний','червоний','зелений','жовтий','блакитний','білий','помаранчевий','синій']
 print(("Кольори:"), ', '.join(str(x) for x in colors))
-i = ['....................']
 
 from collections import Counter
 import re
